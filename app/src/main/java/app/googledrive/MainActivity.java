@@ -51,6 +51,7 @@ public class MainActivity extends Activity implements ConnectionCallbacks,
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 		//Commit 2
+		//commit 3
 
 
     }
