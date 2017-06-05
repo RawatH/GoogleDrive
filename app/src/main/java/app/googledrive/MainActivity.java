@@ -129,6 +129,7 @@ public class MainActivity extends Activity implements ConnectionCallbacks,
     @Override
     public void onConnected(Bundle connectionHint) {
 
+        //Commit 1
         Toast.makeText(getApplicationContext(), "Connected", Toast.LENGTH_LONG).show();
     }
 
